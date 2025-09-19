@@ -28,7 +28,7 @@ Final business insights report:
 
 ## 📈 Dashboards
 Interactive Excel dashboard with pivot tables, slicers, and simulations:  
-📌 [`Dashboards/Online_Retail_Customer_Segmentation.xlsx`](./Dashboards/Online_Retail_Customer_Segmentation.xlsx)
+📌 [`Dashboards/Online Retail Customer Segmentation.xlsx`](./Dashboards/Online_Retail_Customer_Segmentation.xlsx)
 
 ## 🖼️ Sample Screenshots
 ### Customer Segmentation Dashboard  
@@ -36,11 +36,11 @@ Interactive Excel dashboard with pivot tables, slicers, and simulations:
 
 
 ### Cluster Insights (Python)  
-📌 [`assets/Spend_patterns.png`](./assets/Spend_patterns.png)
+📌 [`Assets/Spend_patterns.png`](./Assets/Spend_patterns.png)
 
-📌 [`assets/Anomalies.png`](./assets/Anomalies.png)
+📌 [`Assets/Anomalies.png`](./Assets/Anomalies.png)
 
-📌 [`assets/Cluster_distribution.png`](./assets/Cluster_distribution.png)
+📌 [`Assets/Cluster_distribution.png`](./Assets/Cluster_distribution.png)
 
 
 ## 🔑 Key Insights
