@@ -1,0 +1,21 @@
+# Data manipulation
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning & Clustering
+scikit-learn==1.5.1
+
+# Database connection
+mysql-connector-python==9.0.0
+SQLAlchemy==2.0.34
+
+# Optional - interactive dashboards (if extending to Python-based dashboards)
+plotly==5.24.0
+
+# Jupyter Notebook
+notebook==7.2.2
+jupyterlab==4.2.5
