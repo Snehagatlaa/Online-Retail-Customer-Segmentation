@@ -28,7 +28,7 @@ Final business insights report:
 
 ## 📈 Dashboards
 Interactive Excel dashboard with pivot tables, slicers, and simulations:  
-📌 [`Dashboards/Online Retail Customer Segmentation.xlsx`](./Dashboards/Online_Retail_Customer_Segmentation.xlsx)
+📌 [`Dashboards/Online_Retail_Customer_Segmentation.xlsx`](./Dashboards/Online_Retail_Customer_Segmentation.xlsx)
 
 ## 🖼️ Sample Screenshots
 ### Customer Segmentation Dashboard  
